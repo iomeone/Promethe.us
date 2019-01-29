@@ -1,13 +1,14 @@
-# Promethe.us
-THIS IS NOT MY PROJECT. I JUST REUPLOADED IT.
-All credits goes to:
+# Prometheus---Updated
+ok jesus christ i guess i need to make this apparent.
 
-@darkingman & @kittenzok (frosty.pw v2)
-@lolmitko77777 (starting this project)
-@explodion (i hope we can do this again)
-@PolandCheater (og phook)
-@villeh12 (stuff from insidious.cc) 
-@fantastic921 (pasted resolvers)
-@mordekazor (updated the cheat or something)
+the cheat is unstable, it can be fixed, now leave me alone.
 
-This is kinda outdated you will need to update it yourself, so pasters go away.
+on a sidenote:
+
+don't put any aimbot keys to your mouse side/middle buttons.
+
+ ̶s̶t̶u̶f̶f̶ ̶d̶o̶e̶s̶n̶'̶t̶ ̶s̶a̶v̶e̶ ̶(̶l̶i̶k̶e̶ ̶4̶ ̶t̶h̶i̶n̶g̶s̶)̶ (fixed i think)
+
+spamming the fullupdate will (probably) cause a crash (uses cl_fullupdate)
+
+i will be updating the paste every now and then (crash fixes, etc.)
