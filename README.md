@@ -1,6 +1,6 @@
 # Prometheus---Updated
 I didn't make this cheat.
-All credit goes to:
+All credits goes to:
 @darkingman & @kittenzok (frosty.pw v2)
 @lolmitko77777 (starting this project)
 @explodion (i hope we can do this again)
